@@ -393,8 +393,6 @@ const Developer manthan = {
 
 <br/>
 
-📞 **+91 92849 91051** &nbsp;&nbsp;·&nbsp;&nbsp; 📍 **Pune, Maharashtra, India**
-
 </div>
 
 ---
