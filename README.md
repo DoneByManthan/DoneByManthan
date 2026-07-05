@@ -324,7 +324,7 @@ Lead the Electronics & TC department's student technical committee. Organize wor
 
 | &nbsp; | Achievement | Context | Year |
 |:---:|:---|:---|:---:|
-| 🥇 | **1st Rank** — Hardware Hackathon | Shivaji University *(Team Lead)* | 2026 |
+| 🥇 | **Social Impact Award** — Hardware Hackathon | Shivaji University *(Team Lead)* | 2026 |
 | 🥉 | **2nd Runner-Up** — GridDB IoT Hackathon | Toshiba *(Team Lead)* | 2026 |
 | 🎯 | **14th Rank** — VLSI Hackathon | NIT Kurukshetra | 2025 |
 | 📄 | **3 Patents Filed** | Healthcare & Automotive Domains | 2025–26 |
