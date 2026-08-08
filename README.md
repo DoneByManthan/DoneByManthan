@@ -57,7 +57,7 @@ I don't just make devices work. I make them work ***fast***, work ***reliably***
 <div align="center">
 
 | 🏆 Hackathons Won | 🎓 CGPA | ⭐ HackerRank C |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 | **3×** | **8.27 / 10** | **5-Star** |
 
 </div>
