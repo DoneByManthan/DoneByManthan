@@ -173,7 +173,7 @@ Python · XGBoost · Signal Processing · NHANES Dataset
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Automotive Telematics Node
+### 🚗 Emissguard
 > *"Edge telemetry that runs for days on a battery."*
 
 A power-optimized IoT firmware node on ESP32 that streams real-time vehicle gas-sensor telemetry to a cloud dashboard — with **deep-sleep + wake-on-interrupt** modes cutting active power draw to a fraction of baseline.
